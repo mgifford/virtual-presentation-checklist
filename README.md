@@ -8,12 +8,10 @@ A short list of suggestions for better presentations.
 - Distance - frame page with face, neck & shoulders
 - Stand up or lean forward
 - Good audio is important - don't trust the built-in mic, earbuds can help, but often a USB connected device will be better
-- Don't rely in wifi, make sure you're plugged in
+- Don't rely on your wifi, strength can fluctiate. Make sure you're plugged into your router
 - Make sure someone else has a copy of your slides
 - Be interactive
 - Having a moderator helps, if only to be repsonsible for checking the chats
-
-
 
 
 Links
