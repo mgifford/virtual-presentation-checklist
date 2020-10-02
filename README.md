@@ -16,3 +16,4 @@ A short list of suggestions for better presentations.
 
 Links
 - https://www.forbes.com/sites/maryabbajay/2020/04/20/best-practices-for-virtual-presentations-15-expert-tips-that-work-for-everyone/#63b02ebb3d19
+- https://www.youtube.com/watch?v=YO6utfQm7Bg
