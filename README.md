@@ -1,7 +1,7 @@
 # Virtual Presentation Checklist
 A short list of suggestions for better presentations. 
 
-- Good Lighting
+- Good Lighting from the front so people can see you clearly
 - Professional space or background 
 - Recent familiarity with the technology
 - Position of the camera - be able to look at the camera at eye level
